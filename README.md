@@ -12,7 +12,6 @@
 - 📫 How to reach me **ricardo.912996@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1RANWph_v20zmurirbUF3-tyuyc4X2bpqjgibjoElN1M/edit?usp=sharing](https://docs.google.com/document/d/1RANWph_v20zmurirbUF3-tyuyc4X2bpqjgibjoElN1M/edit?usp=sharing)
-- 
 <p align="left">
 </p>
 
