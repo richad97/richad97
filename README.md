@@ -13,8 +13,6 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1RANWph_v20zmurirbUF3-tyuyc4X2bpqjgibjoElN1M/edit?usp=sharing](https://docs.google.com/document/d/1RANWph_v20zmurirbUF3-tyuyc4X2bpqjgibjoElN1M/edit?usp=sharing)
 
-- ⚡ Fun fact **I think I'm funny**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
