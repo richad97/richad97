@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ricardo Castillo</h1>
-<h3 align="center">A passionate frontend developer from California</h3>
+<h1 align="center">Ricardo Castillo</h1>
+<h3 align="center">Frontend Developer from California</h3>
 
 - 🔭 I’m currently working on [Secure Recipes](https://meek-klepon-9ced87.netlify.app/)
 
